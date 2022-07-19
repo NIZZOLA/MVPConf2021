@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=z0MimkXIvE8&t=1438s
+https://www.youtube.com/watch?v=nXg8JIPYGAQ&t=178s
+https://learning.postman.com/docs/writing-scripts/script-references/test-examples/
+https://medium.com/assertqualityassurance/automatizando-sua-api-com-postman-64a72185e1e6
+https://makolyte.com/postman-save-a-response-value-into-a-variable/
