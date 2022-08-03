@@ -11,3 +11,5 @@ Apresentação em: \docs
 Código fonte da aplicação em: \Src
 
 Coleção de chamadas do Postman em: \postman
+
+![Folder do Evento](https://github.com/NIZZOLA/MVPConf2021/blob/main/MVPCONFFOLDER.jpg?raw=true)
